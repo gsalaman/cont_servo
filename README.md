@@ -1,1 +1,1 @@
-# cont_servo
+# TINY 85 + Continuous servo control
